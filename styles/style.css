@@ -200,9 +200,7 @@ margin-left: 7px;
         justify-items: center;
         align-items: center;
     }
-    hr{
-        width: 70%;
-    }
+    
     .courses{
         flex-direction: column;
     }
